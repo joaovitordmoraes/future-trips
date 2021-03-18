@@ -1,6 +1,6 @@
-# :dart: Boilerplate de Estudo
+# :dart: Future Trips
 
-> Boilerplate criado baseado nos cursos de [NextJS na prática](https://nextjs.willianjusten.com.br) e [React Avançado](https://reactavancado.com.br), com o intuito de estudos e evolução no desenvolvimento de projetos.
+> Projeto criado para estudo de NextJS, TypeScript, Jest e RTL. A ideia é criar um mapa customizando as localidades que eu gostaria de viajar no futuro.
 
 ## :rocket:  Executar o projeto
 
