@@ -24,7 +24,7 @@ export default function PlacesTemplate({ place }: PlaceTemplateProps) {
   return (
     <>
       <LinkWrapper href="/">
-        <CloseOutline size={32} aria-label="Go back to map" />
+        <CloseOutline size={32} aria-label="Volte para o mapa" />
       </LinkWrapper>
 
       <S.Wrapper>
