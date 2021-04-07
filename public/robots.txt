@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://future-trips-joaovitordmoraes.vercel.app
+
+# Sitemaps
+Sitemap: https://future-trips-joaovitordmoraes.vercel.app/sitemap.xml
